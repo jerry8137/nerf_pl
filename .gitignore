@@ -134,3 +134,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+LLFF/
+my_dataset/
+nerf_llff_data/
